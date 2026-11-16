@@ -13,5 +13,7 @@
 
 **Tools:** Python (pandas, scikit-learn, statsmodels) · Tableau
 
+📊 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/duy.nguyen8153/viz/tableau_bigdata/Dashboard)**
+
 ---
 📂 **Full notes, code and results are available on request.** Message me on [LinkedIn](https://www.linkedin.com/in/duynguyen1908/) and I can share access to the private project repo.
